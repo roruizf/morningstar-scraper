@@ -1,0 +1,42 @@
+{
+    "NVDA": [
+        "NVIDIA Corporation",
+        "NASDAQ"
+    ],
+    "DOCN": [
+        "DigitalOcean Holdings Inc",
+        "NYSE"
+    ],
+    "NFLX": [
+        "Netflix Inc",
+        "NASDAQ"
+    ],
+    "AMZN": [
+        "Amazon.com, Inc.",
+        "NASDAQ"
+    ],
+    "TSLA": [
+        "Tesla Inc",
+        "NASDAQ"
+    ],
+    "INTC": [
+        "Intel Corporation",
+        "NASDAQ"
+    ],
+    "AMD": [
+        "Advanced Micro Devices, Inc.",
+        "NASDAQ"
+    ],
+    "TWTR": [
+        "Twitter Inc",
+        "NYSE"
+    ],
+    "FB": [
+        "Meta Platforms Inc",
+        "NASDAQ"
+    ],
+    "PIRC": [
+        "Pirelli & C. SpA",
+        "XMIL"
+    ]
+}
